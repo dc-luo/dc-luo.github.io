@@ -1,4 +1,4 @@
-Welcome to my website! 
+Welcome!
 <body>
 	<h1>About me</h1> 
 	<p>
